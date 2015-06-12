@@ -8,6 +8,9 @@
     "calendar",
     "date"
   ],
+  "require": {
+      "webmodules/moment" : ">=2.10.4"
+  }
   "main": [
     "./pikaday.js",
     "./css/pikaday.css"
