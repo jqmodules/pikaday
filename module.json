@@ -1,0 +1,7 @@
+{
+  "name": "jqmodules/pikaday",
+  "jqmodules/pikaday": {
+    "js": ["pikaday.js"],
+    "css": ["css/pikaday.css"]
+  }
+}
