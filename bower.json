@@ -10,13 +10,15 @@
     "./pikaday.js",
     "./css/pikaday.css"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "webmodules-moment": "latest"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
     "components"
   ],
-  "license" : [
+  "license": [
     "BSD",
     "MIT"
   ],
